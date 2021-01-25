@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaidSetupManager.UI", "RaidSetupManager.UI\RaidSetupManager.UI.csproj", "{F52FF5E5-E361-4BD8-AE4B-0ACA536C9FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blizzard.Data", "Blizzard.Data\Blizzard.Data.csproj", "{9B35A2BE-AEBB-4EB3-99FF-51668B5300BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaidSetupManager.Domain", "RaidSetupManager.Domain\RaidSetupManager.Domain.csproj", "{68A72BA8-9729-424C-90D6-937D09834A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52FF5E5-E361-4BD8-AE4B-0ACA536C9FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52FF5E5-E361-4BD8-AE4B-0ACA536C9FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52FF5E5-E361-4BD8-AE4B-0ACA536C9FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52FF5E5-E361-4BD8-AE4B-0ACA536C9FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B35A2BE-AEBB-4EB3-99FF-51668B5300BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B35A2BE-AEBB-4EB3-99FF-51668B5300BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B35A2BE-AEBB-4EB3-99FF-51668B5300BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B35A2BE-AEBB-4EB3-99FF-51668B5300BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A72BA8-9729-424C-90D6-937D09834A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A72BA8-9729-424C-90D6-937D09834A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A72BA8-9729-424C-90D6-937D09834A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A72BA8-9729-424C-90D6-937D09834A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1083B4-9B50-40DF-91CB-EAD3D0752ECB}
+	EndGlobalSection
+EndGlobal
