@@ -24,6 +24,7 @@ namespace Blizzard.Data
             AccessToken = JSON.AccesToken;
         }
 
+
         public static RaidSetupManager.Domain.Character GetCharacter(string server, string charName)
         {
             server = server.Replace(' ', '-');
